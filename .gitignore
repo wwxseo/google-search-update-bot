@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+last_updates.json
+last_entry_id.txt
+.env
