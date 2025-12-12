@@ -79,3 +79,6 @@
 本项目采用 [MIT License](LICENSE) 协议，你可以自由修改、分发或用于商业用途。
 ## 效果截图
 ![Screenshot_2025-12-12-18-54-20-48_948cd9899890cbd5c2798760b2b95377](https://github.com/user-attachments/assets/375870ee-c23e-4916-ba68-2689522db8af)
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wwxseo/daily-bocchi-bot&type=Date)](https://star-history.com/#wwxseo/daily-bocchi-bot&Date)
