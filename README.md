@@ -3,6 +3,7 @@
 > 一个全自动的 Python 脚本，用于监控 Google 搜索的**核心算法更新 (Core Updates)** 和 **官方博客 (Search Central Blog)**。一旦发现风吹草动，第一时间推送到你的 Telegram。
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automated-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Python](https://img.shields.io/badge/Python-3.9-yellow)
+[![Google Update Monitor](https://github.com/wwxseo/google-search-update-bot/actions/workflows/schedule.yml/badge.svg)](https://github.com/wwxseo/google-search-update-bot/actions/workflows/schedule.yml)
 
 ## ✨ 核心功能
 * **双核监控**：同时监控 [Google 搜索状态仪表盘](https://status.search.google.com/) (突发故障/核心更新) 和 [官方博客](https://developers.google.com/search/blog) (SEO 技术文章)。
